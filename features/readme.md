@@ -3,7 +3,7 @@
 
 ## README
 
-```markdown
+
 # Features
 
 This project reuses generic feature engineering and feature selection utilities from
@@ -13,7 +13,7 @@ Only DDM-specific feature logic should be implemented in this folder:
 
 ---
 ### Planned folder layout:
-
+```markdown
 features/
   README.md
   ddm_feature_engineering.py
@@ -23,7 +23,7 @@ features/
   config/
     feature_sets.yaml
     monotone_map.yaml
-
+```
 1) DDM specific feature engineering: ddm_feature_engineering.py:
 - vintange analysis / tenure features
 - lifecycle/ maturity flags: immature month handling rules
