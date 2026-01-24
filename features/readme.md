@@ -1,7 +1,7 @@
 
 ---
 
-## Shorter version (if you want minimal text)
+## README
 
 ```markdown
 # Features
